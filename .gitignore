@@ -1,0 +1,14 @@
+# Kubernetes Secrets
+
+
+# Temporary files
+*.save
+*.bak
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Private keys
+*.pem
+*.key
